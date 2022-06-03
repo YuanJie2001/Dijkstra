@@ -1,9 +1,6 @@
 # Dijkstra
 java实现Dijkstra
 
-
-@[TOC](文章目录)
-
 ---
 
 MinDistTest 启动程序
